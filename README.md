@@ -8,3 +8,4 @@ A training repository for Git learners. This repository is a part of the Basics 
 1. Nikhil Ramakrishnan
 2. Tunap Paul
 3. Suneet jain
+4. Tejas Amle
